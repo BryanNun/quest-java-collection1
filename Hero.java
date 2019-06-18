@@ -1,8 +1,8 @@
 public class Hero {
 
-    // attributs
-    private String name;
-    private int age;
+        // attributs
+        private String name;
+        private int age;
 
     // constructeurs
     public Hero(String name, int age) {
